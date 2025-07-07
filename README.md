@@ -1,48 +1,75 @@
-<h1 align="center">Hi there, I'm Aishwarya Asabe 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A5D5&width=435&lines=2nd+Year+B.Tech+Student;Beginner+Web+Developer;Learning+Python+and+Tech+Everyday!" alt="Typing SVG" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=AdityaAsabe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Asabe!;" />
+</h1>
 
-### 👩‍🎓 About Me
-
-- 🎓 I’m a **2nd Year B.Tech** student  
-- 📚 Currently learning: **Python** and **Web Development** (HTML, CSS, JavaScript)  
-- 🧠 Exploring Programming, Tech Projects & Open Source  
-- 🎯 Goal: Build amazing tech projects and contribute to the developer community  
-- 📊 CGPA: **9.0 / 10.0**  
-- 💬 Ask me about Python, learning resources, or tech advice!  
-- 📍 Based in: **India**  
-- ✨ Fun fact: I enjoy combining creativity with coding!
+<h3 align="center">
+  A curious and passionate learner, exploring Python and Web Development.
+</h3>
 
 ---
 
-### 🛠️ Skills
+### 📖 About Me
 
-```json
-{
-  "Languages": ["Python", "HTML", "CSS", "JavaScript (Basic)"],
-  "Tools": ["VS Code", "Git", "GitHub"],
-  "Learning": ["React", "Node.js", "MongoDB"]
-}
+Hello! I'm **Aditya Asabe**, a 2nd-year B.Tech student, currently building a solid foundation in software development. Here's a little about me:
 
+- 📌 CGPA: **9.0 / 10.0** (1st & 2nd Semester)
+- 💻 Currently learning: **Python**, **HTML**, **CSS**, **JavaScript**
+- 🌱 Exploring: Web Development, Programming Logic, Git & GitHub
+- 💬 Ask me about: Python basics, HTML/CSS tips, learning resources
+- 🎯 Goal: Build beginner-friendly web projects and grow consistently
+- 📍 Location: **India**
+- 💡 Fun fact: I enjoy solving problems with a creative twist!
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AishwaryaAsabe&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaAsabe&theme=github-dark&hide_border=false" alt="GitHub Streak" /> </p>
-🌱 Current Goals
-🔸 Improve my frontend skills (HTML, CSS, JS)
+---
 
-🔸 Build mini projects
+### 🌟 Skills and Tools
 
-🔸 Practice Python daily
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
+</div>
 
-🔸 Learn Git and contribute to open source
+---
 
-📌 Featured Projects
-🚧 Coming soon...
-I'm working on some exciting beginner-level projects — stay tuned!
+### 📈 GitHub Stats
 
-📫 Connect with Me
-<p align="left"> <a href="mailto:aishwaryaasabe.sknscoe.comp@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> <a href="https://linkedin.com/in/your-link-here" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://github.com/AishwaryaAsabe" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> <a href="https://leetcode.com/your-link-here" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/> </a> <a href="https://hackerrank.com/your-link-here" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/> </a> </p>
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AdityaAsabe&theme=react&border_radius=10" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdityaAsabe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAsabe&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:adityaasabe007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-asabe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Aditya_Asabe" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://leetcode.com/Aditya_Asabe" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/adityaasabe_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+### 📅 Let's Build the Future Together
+
+I'm always open to exciting collaborations, learning opportunities, and new challenges.  
+Feel free to reach out — let's grow and build together 🚀
