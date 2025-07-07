@@ -50,10 +50,10 @@ Hello! I'm **Aditya Asabe**, a 2nd-year B.Tech student, currently building a sol
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="mailto:adityaasabe007@gmail.com">
+  <a href="mailto:adityaasabe3020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-asabe" target="_blank">
+  <a href="www.linkedin.com/in/aditya-asabe-836363327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Aditya_Asabe" target="_blank">
@@ -62,9 +62,7 @@ Hello! I'm **Aditya Asabe**, a 2nd-year B.Tech student, currently building a sol
   <a href="https://leetcode.com/Aditya_Asabe" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.instagram.com/adityaasabe_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+ 
 </div>
 
 ---
