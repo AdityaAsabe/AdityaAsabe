@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Aditya Asabe 👋</h1> 
 
-<!--
-**AdityaAsabe/AdityaAsabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A5D5&width=435&lines=2nd+Year+B.Tech+Student;Beginner+Web+Developer;Learning+Python+and+Tech+Everyday!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🎓 About Me
+
+- 🎓 I’m a **2nd Year B.Tech** student  
+- 📚 Currently learning: **Python** and **Web Development** (HTML, CSS, JavaScript)  
+- 🧠 Exploring Programming, Tech Projects & Open So
